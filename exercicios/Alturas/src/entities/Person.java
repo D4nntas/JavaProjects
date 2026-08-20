@@ -41,8 +41,6 @@ public class Person {
     public void setAltura(double altura) {
         this.altura = altura;
     }
-
-    
     
     
 }
